@@ -1,7 +1,7 @@
 # ATM-monitoring-system
 A web-based system for monitoring ATMs in real-time, ensuring cash availability and operational status. The application helps banks track ATM transactions, manage cash levels, detect issues, and send alerts for maintenance or low balance using a secure and user-friendly interface.
 
-**🔹 Features**
+#**🔹 Features**
 
 Real-time ATM status and cash monitoring
 
@@ -13,7 +13,7 @@ Reports and analytics for ATM usage
 
 Secure authentication for bank staff
 
-**🔹 Tech Stack**
+#**🔹 Tech Stack**
 
 Backend: Django / Flask, Python
 
@@ -23,7 +23,7 @@ Database: SQLite / MySQL / PostgreSQL
 
 Other Tools: Pandas, Matplotlib (for reporting/analytics)
 
-**🔹 Use Cases**
+#**🔹 Use Cases**
 
 Banks and financial institutions for efficient ATM management
 
